@@ -22,7 +22,7 @@ All gestures are tracked live using your webcam, and the app gives visual feedba
 
 ---
 
-## 🛠 How to Set It Up
+##  How to Set It Up
 
 ###  Requirements
 - Python 3.7 or newer
